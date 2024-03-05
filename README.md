@@ -7,7 +7,10 @@ Analyzing the metro network in a city like Delhi helps improve urban transportat
 4) Create visual representations of the network, such as route maps, passenger flow charts, or heat maps of station congestion.
 5) Analyze how effectively the network handles passenger traffic and meets operational targets.
 
- ## Click on the links to see the interactive plots of Delhi Metro Network Analysis : 
+ ## Click on the links to see the interactive plots of Delhi Metro Network Analysis :
+ 
+ Number of Metro Stations Opened :-
+https://rawcdn.githack.com/ManavJKumar/Delhi-Metro-Network-Analysis/8f58f0c7fc2def35b205803c41c670213adf4b71/Number%20of%20Metro%20Stations%20Opened.html
 
  Metro Line Analysis :-
 https://rawcdn.githack.com/ManavJKumar/Delhi-Metro-Network-Analysis/1af578a266c6c32b5629914a6cea442bdc2902bc/Metro%20Line%20Analysis.html
@@ -15,5 +18,4 @@ https://rawcdn.githack.com/ManavJKumar/Delhi-Metro-Network-Analysis/1af578a266c6
 Distribution of Delhi Metro Station Layouts :-
 https://rawcdn.githack.com/ManavJKumar/Delhi-Metro-Network-Analysis/8f58f0c7fc2def35b205803c41c670213adf4b71/Distribution%20of%20metro.html
 
-Number of Metro Stations Opened :-
-https://rawcdn.githack.com/ManavJKumar/Delhi-Metro-Network-Analysis/8f58f0c7fc2def35b205803c41c670213adf4b71/Number%20of%20Metro%20Stations%20Opened.html
+

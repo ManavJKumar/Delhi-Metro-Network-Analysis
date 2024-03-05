@@ -8,4 +8,4 @@ Analyzing the metro network in a city like Delhi helps improve urban transportat
 5) Analyze how effectively the network handles passenger traffic and meets operational targets.
 
  ### Click on the link to see the interactive plot of Metro line analysis : 
-file:///C:/Users/manav/index.html
+Users/manav/index.html
